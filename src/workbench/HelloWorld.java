@@ -5,6 +5,7 @@ public class HelloWorld {
   public static void main(String[] args) {
     System.out.println("Hello");
     System.out.println("Time for some fun!");
+    System.out.println("Line 3!");
     System.out.println("Line 4");
   }
 
