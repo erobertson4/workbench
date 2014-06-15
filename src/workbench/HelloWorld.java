@@ -15,5 +15,8 @@ public class HelloWorld {
   public void bonjour() {
     System.out.println("Bonjour");
   }
+  public void newMethod() {
+    System.out.println("Hi, Boys");
+  }
 
 }
