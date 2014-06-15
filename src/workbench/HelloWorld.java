@@ -9,6 +9,7 @@ public class HelloWorld {
     System.out.println("Line 4");
     System.out.println("Line 5!");
     System.out.println("Line 7!");
+    System.out.println("Line 6!");
   }
 
 }
