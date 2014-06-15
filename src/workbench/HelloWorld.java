@@ -11,5 +11,9 @@ public class HelloWorld {
     System.out.println("Line 7!");
     System.out.println("Line 6!");
   }
+  
+  public void newMethod() {
+    System.out.println("Hi, Boys");
+  }
 
 }
