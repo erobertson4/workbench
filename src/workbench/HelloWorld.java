@@ -7,6 +7,7 @@ public class HelloWorld {
     System.out.println("Time for some fun!");
     System.out.println("Line 3!");
     System.out.println("Line 4");
+    System.out.println("Line 5!");
   }
 
 }
