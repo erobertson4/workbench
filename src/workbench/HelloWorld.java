@@ -12,11 +12,11 @@ public class HelloWorld {
     System.out.println("Line 6!");
   }
   
-  public void bonjour() {
-    System.out.println("Bonjour");
+  public void hola() {
+    System.out.println("Hola!");
   }
   public void newMethod() {
-    System.out.println("Hi, Boys");
+    System.out.println("Method 2");
   }
 
 }
